@@ -1,0 +1,11 @@
+{
+  "name": "repro--messageformat-runtime-messages",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Kate Miháliková <kate@katemihalikova.cz>",
+  "license": "MIT",
+  "dependencies": {
+    "@messageformat/runtime": "3.0.0",
+    "typescript": "4.3.5"
+  }
+}
